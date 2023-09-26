@@ -1,0 +1,12 @@
+numpy==1.24.4
+pandas==2.0.3
+Pillow==10.0.1
+pypng==0.20220715.0
+python-dateutil==2.8.2
+pytz==2023.3.post1
+qrcode==7.4.2
+qrcode-artistic==2.1.0
+segno==1.5.2
+six==1.16.0
+typing-extensions==4.8.0
+tzdata==2023.3
